@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "181433158679",
+    "project_id": "thinking-orb-146618"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181433158679:android:bb45f9f50ef7296b",
+        "android_client_info": {
+          "package_name": "com.example.iway.codersinc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181433158679-bs38agg6frm5j5l074dpp54s2kckb9qo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iway.codersinc",
+            "certificate_hash": "C456434A419B3240A39CE7093A45A1CB8B845208"
+          }
+        },
+        {
+          "client_id": "181433158679-6trugnbbsr7lg80b4q1j6q6p27ubftpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzYGxBLL9mS3fHMOPyMiHPTt4Zkf6cm1M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="all">
+        <item
+            android:id="@+id/navprofile"
+            android:title="Profile" />
+        <item
+            android:id="@+id/navmanage"
+            android:title="Manage Handles" />
+        <item
+            android:id="@+id/navgraph"
+            android:title="Success Graph" />
+    </group>
+    <group android:checkableBehavior="all">
+        <item
+            android:title="Notification" />
+        <item
+            android:title="Filter" />
+        <item
+            android:title="Reminder"/>
+    </group>
+
+</menu>
